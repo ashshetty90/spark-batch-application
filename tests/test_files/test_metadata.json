@@ -1,0 +1,13 @@
+{
+  "input_metadata":{
+      "name":"string",
+      "ingredients":"string",
+      "url":"string",
+      "image":"string",
+      "cookTime":"string",
+      "recipeYield":"string",
+      "datePublished": "date",
+      "prepTime": "string",
+      "description": "string"
+    }
+}
